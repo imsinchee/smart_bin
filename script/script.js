@@ -1,11 +1,12 @@
 var firebaseConfig = {
-  apiKey: "AIzaSyBp5fcszCQFcGwkTsSAZwMWsrTO9zbJr3I",
-  authDomain: "stitch-368f4.firebaseapp.com",
-  databaseURL: "https://stitch-368f4.firebaseio.com",
-  projectId: "stitch-368f4",
-  storageBucket: "stitch-368f4.appspot.com",
-  messagingSenderId: "943998937999",
-  appId: "1:943998937999:web:a2121dabda411b68ebb9fa"
+  apiKey: "AIzaSyBb-hbOWhzM3srzdnjhL4bONWd9mthcy98",
+    authDomain: "idp-bf0cb.firebaseapp.com",
+    databaseURL: "https://idp-bf0cb.firebaseio.com",
+    projectId: "idp-bf0cb",
+    storageBucket: "idp-bf0cb.appspot.com",
+    messagingSenderId: "561595991088",
+    appId: "1:561595991088:web:3642893ccc67f2ae1159f5",
+    measurementId: "G-M75QFKPF7G"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
